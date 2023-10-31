@@ -1,0 +1,17 @@
+{
+    "ziee": {
+        "email": "cici",
+        "password": "$2b$12$Vn90JWQBA/bycQybqZmgaOeovFjCrmIwL8aWszrP3lzGQa8WVI0ZK",
+        "role": "Admin"
+    },
+    "riri": {
+        "email": "ried",
+        "password": "$2b$12$.1K0/FkjoVutpDodTDvsB.u7mVxbtNbtPICOJFrY82rXZ3/JN2O0e",
+        "role": "users"
+    },
+    "zall": {
+        "email": "zall",
+        "password": "$2b$12$NDtNZ6ha2KX8gpMnWeb39.wEhYJ65e.er5BVZkFeWOSuCaHCkRQmC",
+        "role": "Admin"
+    }
+}
